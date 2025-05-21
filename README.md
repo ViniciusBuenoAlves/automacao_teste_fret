@@ -25,7 +25,9 @@ git clone https://github.com/ViniciusBuenoAlves/automacao_teste_fret.git
 
 ## Instale as dependências:
 npm install
-npm install --save-dev cypress
+
+npm install --save-dev cypress - (se caso já possuir o cypress, não precisa)
+
 npm install -D cypress-xpath
 
 ## Executar os testes 
