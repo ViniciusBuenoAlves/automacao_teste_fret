@@ -1,4 +1,4 @@
-# Projeto Automação Cypress e testes manuais
+# Projeto Automação Cypress e Testes Manuais
 
 Este projeto contém os testes automatizados desenvolvidos para o teste técnico para a vaga de Analista de Testes (QA) no Fretadão.
 
@@ -94,4 +94,4 @@ Comportamento atual:
 - O mapa não carrega e não mostra a rota desejada.
 
 Comportamento esperado:
-- O mapa deve carregar corretamente e exibir a rota entre origem e destino. -->
+- O mapa deve carregar corretamente e exibir a rota entre origem e destino.
