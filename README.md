@@ -1,4 +1,4 @@
-# Projeto Automação Cypress e testes manuais
+# Projeto Automação Cypress e Testes Manuais
 
 Este projeto contém os testes automatizados desenvolvidos para o teste técnico para a vaga de Analista de Testes (QA) no Fretadão.
 
@@ -25,7 +25,9 @@ git clone https://github.com/ViniciusBuenoAlves/automacao_teste_fret.git
 
 ## Instale as dependências:
 npm install
-npm install --save-dev cypress
+
+npm install --save-dev cypress - (se caso já possuir o cypress, não precisa)
+
 npm install -D cypress-xpath
 
 ## Executar os testes 
@@ -94,4 +96,4 @@ Comportamento atual:
 - O mapa não carrega e não mostra a rota desejada.
 
 Comportamento esperado:
-- O mapa deve carregar corretamente e exibir a rota entre origem e destino. -->
+- O mapa deve carregar corretamente e exibir a rota entre origem e destino.
