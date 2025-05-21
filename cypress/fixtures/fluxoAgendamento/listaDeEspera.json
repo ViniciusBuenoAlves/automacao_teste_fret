@@ -1,0 +1,16 @@
+{
+  "origem1": "Valinhos, SP",
+  "destino1": "Sumaré, SP",
+  "nome": "Vinicius Bueno",
+  "telefone": "11999999999",
+  "email": "vinicius.bueno@fretadão.com",
+  "horarioChegada": "08:00",
+  "horarioSaida": "18:00",
+  "dataLimite": "2025-05-30",
+  "msgListaDeEspera": "Lista de espera",
+  "listaDeEsperaSucesso": "Lista de espera exibida",
+  "listaDeEsperaErro": "Lista de espera não exibida",
+  "msgFormularioSucesso": "Agradecemos por sua sugestão!",
+  "formularioErro": "Erro ao enviar o formulário",
+  "formularioSucesso": "Formulário enviado com sucesso"
+}
