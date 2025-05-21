@@ -1,4 +1,4 @@
-# Projeto Automação Cypress e testes manuais
+# Projeto Automação Cypress e Testes Manuais
 
 Este projeto contém os testes automatizados desenvolvidos para o teste técnico para a vaga de Analista de Testes (QA) no Fretadão.
 
